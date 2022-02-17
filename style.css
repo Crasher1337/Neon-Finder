@@ -465,6 +465,7 @@ text-decoration: underline;
         display: table-cell;
         background-color:  black;
         height: 30px;
+	transform-origin: center;
     }
 
 
