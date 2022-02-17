@@ -473,6 +473,7 @@ text-decoration: underline;
       display: inline-flex;
       background-color:  black;
       height: 30px;
+      transform-origin: center;
     }
 
     #right{
