@@ -596,6 +596,11 @@ text-decoration: underline;
        height: 30px;
    }
 
+   #blankcolumni {
+       display: table-cell;
+       background-color:  black;
+       height: 30px;
+   }
 
 
    #searchcolumn {
